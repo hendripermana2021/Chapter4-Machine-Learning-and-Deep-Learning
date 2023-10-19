@@ -40,4 +40,8 @@ This problem description is the same as Task 3. But there are some technical cha
 
 Pada challange 3, Task 1, kali ini kami melakukan preprocessing data, cleaning data, dan melakukan correlation data untuk membuat data set yang baik, dan mentraining data tersebut kedalam 3 model machine learning menggunakan methode yang berbeda, pada challange ini saya menggunakan methode Random Forest, Naive Bayes, dan Linear Regression, dan membandingkan methode mana yang lebih baik akurasinya.
 
-lalu pada Task 2, 
+lalu pada Task 2, membuat cluster terbaik menggunakan metode KMeans, dari dataset yang tersedia
+
+Task 3, Membuat Machine Learning yang memiliki Deep Learning menggunakan Neural Network Architectur, yang didukung dengan library pytorch, untuk mengidentifikasi digit klasifikasi tulisan tangan yang diambil dari library MNIST (Modified National Institute of Standards and Technology database)
+
+Terakhir Task 4, adalah soal bonus tambahan yang didalamnya menyuruh kita untuk membuat 3 configurasi berbeda yang nantinya akan di bandingkan, begitu juga dengan loss dan activation function dibuat 3 konfigurasi yang berbeda antara keduanya.
