@@ -38,10 +38,10 @@ This problem description is the same as Task 3. But there are some technical cha
 3. Compare 3 configurations for the activation function. Show and explain your performance result.
 
 
-Pada challange 3, Task 1, kali ini kami melakukan preprocessing data, cleaning data, dan melakukan correlation data untuk membuat data set yang baik, dan mentraining data tersebut kedalam 3 model machine learning menggunakan methode yang berbeda, pada challange ini saya menggunakan methode Random Forest, Naive Bayes, dan Linear Regression, dan membandingkan methode mana yang lebih baik akurasinya.
+In challenge 3, Task 1, this time we preprocessed data, cleaned data, and correlated data to create a good data set, and trained the data into 3 machine learning models using different methods, in this challenge I used the Random Forest method , Naive Bayes, and Linear Regression, and compare which method has better accuracy.
 
-lalu pada Task 2, membuat cluster terbaik menggunakan metode KMeans, dari dataset yang tersedia
+then in Task 2, create the best cluster using the KMeans method, from the available dataset
 
-Task 3, Membuat Machine Learning yang memiliki Deep Learning menggunakan Neural Network Architectur, yang didukung dengan library pytorch, untuk mengidentifikasi digit klasifikasi tulisan tangan yang diambil dari library MNIST (Modified National Institute of Standards and Technology database)
+Task 3, Create Machine Learning that has Deep Learning using Neural Network Architecture, which is supported by the Pytorch library, to identify handwritten classification digits taken from the MNIST library (Modified National Institute of Standards and Technology database)
 
-Terakhir Task 4, adalah soal bonus tambahan yang didalamnya menyuruh kita untuk membuat 3 configurasi berbeda yang nantinya akan di bandingkan, begitu juga dengan loss dan activation function dibuat 3 konfigurasi yang berbeda antara keduanya.
+Finally, Task 4, is an additional bonus question which asks us to create 3 different configurations which will later be compared, as well as with the loss and activation functions, create 3 different configurations between the two.
